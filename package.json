@@ -1,0 +1,20 @@
+{
+  "name": "ejs-node",
+  "version": "1.0.0",
+  "description": "Node server with Embedded Javascript Templating ",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "ejs",
+    "express"
+  ],
+  "author": "Julius Olajumoke",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.6.1"
+  }
+}
